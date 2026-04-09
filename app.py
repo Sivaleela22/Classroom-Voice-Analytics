@@ -6,7 +6,7 @@ from analysis import analyze_classroom
 st.set_page_config(page_title="Classroom Voice Analytics", layout="wide")
 
 st.title("🎓 Classroom Voice Analytics MVP")
-st.caption("MakerGhat AI/ML Internship – Pre-Work | Upload classroom audio to get insights")
+st.caption(" Upload classroom audio to get insights")
 st.divider()
 
 uploaded_file = st.file_uploader(
