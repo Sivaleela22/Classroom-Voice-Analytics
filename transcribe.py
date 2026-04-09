@@ -1,6 +1,6 @@
 import os
 from groq import Groq
-
+C
 GROQ_API_KEY = " "  # ← Your Groq API key
 
 client = Groq(api_key=GROQ_API_KEY)
